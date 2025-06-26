@@ -147,6 +147,11 @@ h1 {
 	background-size: 75px;
 }
 
+.logo-fmovies {
+	background-image: url(../images/logos/fmovies.png);
+	background-size: 75px;
+}
+
 .notice {
 	text-align: center;
 	color: rgba(255, 255, 255, 0.44);
